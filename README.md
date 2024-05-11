@@ -24,3 +24,5 @@
   Também pode ser melhorado aplicando uma interface para que fique mais interativo com o usuário, porém não tenho o conhecimento necessarios no momento.
 
   Baixe o codigo e teste no seu google colab também :)
+
+  Obs: não esqueça de adicionar sua api key para o código funcionar
