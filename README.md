@@ -4,7 +4,7 @@
 ## Introdução
 
   Este é um pequeno projeto de criação de um chatboy de recomendações com o conhecimento que aprendi na imersão IA da Alura com o Google.
-  Foram utlizadas o Gemini e o colab do Google para o desenvolvimento
+  Foram utlizadas o Gemini e o colab do Google para o desenvolvimento.
   
 ## Desenvolvimento
   Basicamente este chatboy utiliza o metodo de few-shots para gerar novas recomendações de filmes com base em 3 filmes que você assistiu, então ele faz uma análise e recomenda filmes com temáticas e gêneros semelhantes.
